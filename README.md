@@ -18,8 +18,13 @@
 
 ### 📊 Github Stats
 
-<div style="align=center; display: flex; aling-items: center; justify-content: space-around; width: 100%; ">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=SebasDeveloper1&show_icons=true&theme=tokyonight">
+</div>
+
+</br>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeveloper1&show_icons=true&theme=tokyonight&layout=compact">
 </div>
 
@@ -47,7 +52,6 @@
 <a href="https://es.reactjs.org/" target="_blank"> <img src="./assets/icons/react-logo-color.svg" align="left" alt="react" title="react" height='42px'/> </a>
 
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./assets/icons/npm-logo-color.svg" align="left" alt="npm" title="npm" height='42px'/> </a>
-
 </p>
 
 </br>
