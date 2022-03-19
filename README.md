@@ -2,8 +2,8 @@
  <img width="100%" src="https://i.postimg.cc/k5t876jh/banner-sebastian.jpg" align="center" alt="SebasCover" />
 <h1 align="center">🌎 @SebasDeveloper 🚀</h1>
 
-<p style="text-align: center; margin: 50px;">I am passionate about technology and collaborative learning, I have a complete professional profile endorsed by my training as a Systems Engineer and especially by my branch of specialization as a Frontend Developer.</p>
-
+<p align="center" >I am passionate about technology and collaborative learning, I have a complete professional profile endorsed by my training as a Systems Engineer and especially by my branch of specialization as a Frontend Developer.</p>
+</br>
 </p>
 
   <p align="center">
@@ -52,6 +52,7 @@
 <a href="https://es.reactjs.org/" target="_blank"> <img src="./assets/icons/react-logo-color.svg" align="left" alt="react" title="react" height='42px'/> </a>
 
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./assets/icons/npm-logo-color.svg" align="left" alt="npm" title="npm" height='42px'/> </a>
+
 </p>
 
 </br>
