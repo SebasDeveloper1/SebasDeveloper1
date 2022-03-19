@@ -6,7 +6,7 @@
 
 </p>
 
-  <p style="text-align: center;">
+  <p align="center">
  <a href="https://twitter.com/SebasDeveloper">  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=00b4d8&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSebasDeveloper"></a>
  <a  href="https://linkedin.com/in/sebas-developer">  <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=0077b6&label=linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fsebas-developer"></a>
   <a  href="https://t.me/JSPedroza">  <img alt="Telegram URL" src="https://img.shields.io/twitter/url?color=0096c7&label=telegram&logo=telegram&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fsebas-developer"></a>
@@ -18,7 +18,7 @@
 
 ### 📊 Github Stats
 
-<div style="display: flex; aling-items: center; justify-content: space-around; width: 100%; ">
+<div style="align=center; display: flex; aling-items: center; justify-content: space-around; width: 100%; ">
     <img src="https://github-readme-stats.vercel.app/api?username=SebasDeveloper1&show_icons=true&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasDeveloper1&show_icons=true&theme=tokyonight&layout=compact">
 </div>
@@ -29,7 +29,7 @@
 
 ### 🔨 Languages and Tools:
 
- <p style="text-align: center;">
+ <p align="center">
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="./assets/icons/html-logo-color.svg" align="left" alt="html" title="html" height='42px'/> </a>
 
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="./assets/icons/css-logo-color.svg" align="left" alt="css" title="css" height='42px'/> </a>
