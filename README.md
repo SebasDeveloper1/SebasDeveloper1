@@ -52,6 +52,8 @@
 <a href="https://es.reactjs.org/" target="_blank"> <img src="./assets/icons/react-logo-color.svg" align="left" alt="react" title="react" height='42px'/> </a>
 
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./assets/icons/npm-logo-color.svg" align="left" alt="npm" title="npm" height='42px'/> </a>
+ 
+ <a href="https://webpack.js.org/" target="_blank"> <img src="https://i.postimg.cc/50SDNGSn/webpack.png" align="left" alt="webpack" title="webpack" height='42px'/> </a>
 
 </p>
 
