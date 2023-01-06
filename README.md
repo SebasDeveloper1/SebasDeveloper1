@@ -32,9 +32,11 @@ I consider myself a creative, innovative, curious person and above all passionat
 <a href="https://es.reactjs.org/" target="_blank"> <img src="./assets/icons/react-logo-color.svg" align="center" alt="react" title="react" height='56px'/>&nbsp; &nbsp;</a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="./assets/icons/npm-logo-color.svg" align="center" alt="npm" title="npm" height='56px'/>&nbsp; &nbsp;</a>
  <a href="https://webpack.js.org/" target="_blank"> <img src="./assets/icons/webpack-icon.svg" align="center" alt="webpack" title="webpack" height='56px'/>&nbsp; &nbsp;</a>
- <a href="https://vitejs.dev/" target="_blank"> <img src="./assets/icons/vite-icon.svg" align="center" alt="vite.js" title="vite.js" height='56px'/>&nbsp; &nbsp;</a>
+ <a href="https://vitejs.dev/" target="_blank"> <img src="./assets/icons/vite-icon.svg" align="center" alt="vite.js" title="vite.js" height='46px'/>&nbsp; &nbsp;</a>
  <a href="https://es.redux.js.org/" target="_blank"> <img src="./assets/icons/redux-icon.svg" align="center" alt="redux" title="redux" height='56px'/>&nbsp; &nbsp;</a>
  <a href="https://jestjs.io/" target="_blank"> <img src="./assets/icons/jest-icon.svg" align="center" alt="jest.js" title="jest.js" height='56px'/>&nbsp; &nbsp;</a>
+ <a href="https://styled-components.com/" target="_blank"> <img src="./assets/icons/styled-components-icon-.svg" align="center" alt="styled-components" title="styled-components" height='56px'/>&nbsp; &nbsp;</a>
+ <a href="https://reactrouter.com/en/main" target="_blank"> <img src="./assets/icons/react-router-icon.svg" align="center" alt="react-router" title="react-router" height='40px'/>&nbsp; &nbsp;</a>
 </p>
 
 ---
